@@ -1,0 +1,9 @@
+php_flag register_globals on
+
+AddDefaultCharset utf-8
+
+<IfModule dir_module>
+    DirectoryIndex index.php
+</IfModule>
+AddCharset utf-8 .js
+AddCharset utf-8 .js
